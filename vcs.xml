@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/Ultrik23/testWebstore.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vbeskrovnov/webstore.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="I:\_Java проекты" />
+    <option name="cloneParentDir" value="I:\_Java проекты\Webstore" />
   </component>
 </application>
